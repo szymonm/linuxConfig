@@ -1,0 +1,6 @@
+keysym j = j J Down Down Down Down
+keysym l = l L Right Right lstroke Lstroke
+keysym k = k K Up Up Up Up Up
+keysym h = h H Left Left Left Left
+keysym semicolon = semicolon colon Right Right Right Right
+
